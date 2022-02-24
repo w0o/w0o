@@ -1,8 +1,8 @@
 👋 Yo, I’m @w0o, whoohoo
 - 👀 I’m interested in anything that moves bits around
-- 🌱 I’m currently learning the cosmos, bit by bit.
+- 🌱 I’m currently learning the cosmos, bit by bit, it will take a while.
 - 💞️ I’m looking to collaborate on cool projects across any platform especially involving audio, CG/visuals, gaming and art.
-- 📫 Reach me **here** for code collab or look me up in your local pubs ;)
+- 📫 Reach me **here** for code collab or look me up in your local pub ;)
 
 Yes, you're welcome to pet the alligator!
 
